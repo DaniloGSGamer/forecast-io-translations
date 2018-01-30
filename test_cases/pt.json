@@ -2,22 +2,22 @@
   "Limpo":
     ["title", "clear"],
 
-  "Possíveis Aguaceiros Muito Fracos":
+  "Possíveis Pancadas de Chuva Muito Fracas":
     ["title", "possible-very-light-precipitation"],
 
-  "Aguaceiros Muito Fracos":
+  "Pancadas de Chuva Muito Fracas":
     ["title", "very-light-precipitation"],
 
-  "Possíveis Aguaceiros Fracos":
+  "Possíveis Pancadas de Chuva Fracas":
     ["title", "possible-light-precipitation"],
 
-  "Aguaceiros Fracos":
+  "Pancadas de Chuva Fracas":
     ["title", "light-precipitation"],
 
-  "Aguaceiros":
+  "Pancadas de Chuva":
     ["title", "medium-precipitation"],
 
-  "Aguaceiros Fortes":
+  "Pancadas de Chuva Fortes":
     ["title", "heavy-precipitation"],
 
   "Possíveis Chuviscos":
@@ -148,29 +148,29 @@
   "Vento fraco durante tarde.":
     ["sentence",["during","light-wind","afternoon"]],
 
-  "Neve durante noite de hoje e amanhã de manhã.":
+  "Neve durante a noite de hoje e amanhã de manhã.":
     ["sentence",["during",
       "medium-snow",
       ["and","later-today-evening","tomorrow-morning"]]],
 
-  "Chuva forte até manhã de hoje, recomeça hoje à noite.":
+  "Chuva forte até a manhã de hoje, recomeça hoje à noite.":
     ["sentence",["until-starting-again",
       "heavy-rain",
       "later-today-morning",
       "today-evening"]],
 
-  "Muito nublado começa esta noite, continua até à madrugada.":
+  "Muito nublado começa nesta noite, continua até à madrugada.":
     ["sentence",["starting-continuing-until",
       "heavy-clouds",
       "evening",
       "night"]],
 
-  "Granizo fraco durante tarde de hoje e nevoeiro durante amanhã de manhã.":
+  "Granizo fraco durante a tarde de hoje e nevoeiro amanhã durante a manhã.":
     ["sentence",["and",
       ["during","light-sleet", "later-today-afternoon"],
       ["during","fog","tomorrow-morning"]]],
 
-  "Vento forte começa esta manhã, continua até à tarde, e granizo durante amanhã de manhã.":
+  "Vento forte começa nesta manhã, continua até à tarde, e granizo amanhã durante a manhã.":
     ["sentence", ["and",
       ["starting-continuing-until",
         "heavy-wind",
@@ -178,12 +178,12 @@
         "afternoon"],
       ["during", "medium-sleet", "tomorrow-morning"]]],
 
-  "Muito nublado começa durante a de madrugada e neve forte durante amanhã à tarde.":
+  "Muito nublado começa durante a madrugada e neve forte amanhã durante a tarde.":
     ["sentence",["and",
     ["starting", "heavy-clouds", "later-today-night"],
     ["during", "heavy-snow", "tomorrow-afternoon"]]],
 
-  "Seco durante hoje de madrugada e aguaceiros fracos começa esta amanhã à noite, continua até à amanhã de madrugada.":
+  "Seco hoje durante a madrugada e pancadas de chuva fracas começam amanhã à noite, continuam até amanhã de madrugada.":
     ["sentence", ["and",
       ["during", "low-humidity", "today-night"],
       ["starting-continuing-until",
@@ -191,50 +191,50 @@
         "tomorrow-evening",
         "tomorrow-night"]]],
 
-  "Neve (5 cm.) durante madrugada.":
+  "Neve (5 cm.) durante a madrugada.":
     ["sentence", ["during",
       ["parenthetical", "medium-snow", ["centimeters", 5]],
       "night"]],
 
-  "Neve fraca (2 cm.) durante manhã de hoje.":
+  "Neve fraca (2 cm.) durante a manhã de hoje.":
     ["sentence", ["during",
       ["parenthetical", "light-snow", ["centimeters", 2]],
       "later-today-morning"]],
 
-  "Neve (menos de 1 cm.) durante tarde.":
+  "Neve (menos de 1 cm.) durante a tarde.":
     ["sentence", ["during",
       ["parenthetical", "medium-snow", ["less-than", ["centimeters", 1]]],
       "afternoon"]],
 
-  "Sem aguaceiros durante toda a semana, com as temperaturas a chegar a um máximo de 35\u00B0C amanhã.":
+  "Sem chuva durante a semana, com as temperaturas a chegar a um máximo de 35\u00B0C amanhã.":
     ["sentence", ["with",
       ["for-week", "no-precipitation"],
       ["temperatures-peaking",
         ["celsius", 35],
         "tomorrow"]]],
 
-  "Aguaceiros variados durante todo o fim de semana, com as temperaturas a subir aos 32\u00B0C quinta-feira.":
+  "Precipitação variada durante todo o fim de semana, com as temperaturas a subir aos 32\u00B0C quinta-feira.":
     ["sentence", ["with",
       ["over-weekend", "mixed-precipitation"],
       ["temperatures-rising",
         ["celsius", 32],
         "thursday"]]],
 
-  "Chuviscos durante segunda-feira, com as temperaturas a descer até 15\u00B0C sexta-feira.":
+  "Chuviscos na segunda-feira, com as temperaturas a descer até 15\u00B0C sexta-feira.":
     ["sentence", ["with",
       ["during", "very-light-rain", "monday"],
       ["temperatures-valleying",
         ["celsius", 15],
         "friday"]]],
 
-  "Neve fraca durante terça-feira e quarta-feira, com as temperaturas a descer até um minimo de 0\u00B0C domingo.":
+  "Neve fraca durante a terça-feira e a quarta-feira, com as temperaturas a descer até um minimo de 0\u00B0C domingo.":
     ["sentence", ["with",
       ["during", "light-snow", ["and", "tuesday", "wednesday"]],
       ["temperatures-falling",
         ["celsius", 0],
         "sunday"]]],
 
-  "Aguaceiros durante hoje durante sábado, com as temperaturas a chegar a um máximo de 37\u00B0C segunda-feira.":
+  "Pancadas de chuva durante hoje e no sábado, com as temperaturas a chegar a um máximo de 37\u00B0C segunda-feira.":
     ["sentence", ["with",
       ["during",
         "medium-precipitation",
@@ -243,6 +243,6 @@
         ["celsius", 37],
         "monday"]]],
 
-  "Tempestades possíveis até próxima quarta-feira.":
+  "Tempestades possíveis até a próxima quarta-feira.":
   ["sentence", ["until", "possible-thunderstorm", "next-wednesday"]]
 }
